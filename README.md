@@ -1,4 +1,4 @@
-# Chrome Theme Generator Extension
+# Custom Chrome Theme Extension
 
 ## Getting the Code
 To get a copy of this repository on your device, you can use Git to clone it. Open your terminal or command prompt and run:
